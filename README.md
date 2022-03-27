@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Amelie-Eloise
-- 👀 I’m interested in writing of all kinds, technical and creative, including interactive fiction. 
-- 🌱 I’m currently learning JavaScript, Python, and how to use Scribus and Inkscape so I can create some traditional board game designs.
+- 👀 I’m interested in writing of all kinds, technical and creative, including interactive fiction and flash fiction. 
+- 🌱 I’m currently learning JavaScript, Python, and how to use Scribus and Inkscape so I can create some traditional board game designs. 
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
